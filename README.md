@@ -1,3 +1,2 @@
+This is EE 201 Lab3
 
-This is a test
-Pull test 
